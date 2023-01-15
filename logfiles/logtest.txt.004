@@ -1,0 +1,38 @@
+11/09/2016 00:47:28.266000 4 account records loaded.
+11/09/2016 00:47:28.267000 Starting server on port 21....
+11/09/2016 00:47:28.268000 Server start OK.
+11/09/2016 00:47:28.269000 Server running on port 21. Waiting for clients...
+11/09/2016 00:47:36.892000 Client from 127.0.0.1 49923 accepted
+11/09/2016 00:47:36.892000 Sent to 127.0.0.1 49923: 220 Welcome message
+11/09/2016 00:47:46.652000 Disconnected: 127.0.0.1 49923
+11/09/2016 00:47:51.347000 Stopping server...
+11/09/2016 00:49:32.180000 4 account records loaded.
+11/09/2016 00:49:32.180000 Starting server on port 21....
+11/09/2016 00:49:32.181000 Server start OK.
+11/09/2016 00:49:32.181000 Server running on port 21. Waiting for clients...
+11/09/2016 00:49:47.109000 Client from 127.0.0.1 50236 accepted
+11/09/2016 00:49:47.110000 Sent to 127.0.0.1 50236: 220 Welcome message
+11/09/2016 00:50:14.418000 Received from 127.0.0.1 50236: port 192,168,1,1,0,80
+11/09/2016 00:50:14.419000 Sent to 127.0.0.1 50236: 530 Authentification required.
+11/09/2016 00:50:20.027000 Received from 127.0.0.1 50236: user admin
+11/09/2016 00:50:20.028000 Sent to 127.0.0.1 50236: 331 User name okay, need password.
+11/09/2016 00:50:23.066000 Received from 127.0.0.1 50236: pass ad
+11/09/2016 00:50:23.067000 Sent to 127.0.0.1 50236: 530 Bad password.
+11/09/2016 00:50:29.666000 Received from 127.0.0.1 50236: user admin
+11/09/2016 00:50:29.666000 Sent to 127.0.0.1 50236: 331 User name okay, need password.
+11/09/2016 00:50:31.882000 Received from 127.0.0.1 50236: pass ad
+11/09/2016 00:50:31.883000 Sent to 127.0.0.1 50236: 530 Bad password.
+11/09/2016 00:50:34.315000 Received from 127.0.0.1 50236: user admin
+11/09/2016 00:50:34.316000 Sent to 127.0.0.1 50236: 331 User name okay, need password.
+11/09/2016 00:50:37.883000 Received from 127.0.0.1 50236: pass ad
+11/09/2016 00:50:37.884000 Sent to 127.0.0.1 50236: 530 Bad password.
+11/09/2016 00:50:41.074000 Received from 127.0.0.1 50236: user admin
+11/09/2016 00:50:41.074000 Sent to 127.0.0.1 50236: 331 User name okay, need password.
+11/09/2016 00:50:42.731000 Received from 127.0.0.1 50236: pass ad
+11/09/2016 00:50:42.731000 Sent to 127.0.0.1 50236: 530 Bad password.
+11/09/2016 00:51:37.786000 Received from 127.0.0.1 50236: close
+11/09/2016 00:51:37.787000 Sent to 127.0.0.1 50236: 530 Authentification required.
+11/09/2016 00:51:39.018000 Received from 127.0.0.1 50236: quit
+11/09/2016 00:51:39.019000 Sent to 127.0.0.1 50236: 221 Goodbye, closing seesion.
+11/09/2016 00:51:39.020000 Disconnected: 127.0.0.1 50236
+11/09/2016 00:51:45.193000 Stopping server...

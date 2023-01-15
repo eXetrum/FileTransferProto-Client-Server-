@@ -1,0 +1,15 @@
+11/09/2016 01:32:15.972000 4 account records loaded.
+11/09/2016 01:32:15.972000 Starting server on port 21....
+11/09/2016 01:32:15.973000 Server start OK.
+11/09/2016 01:32:15.974000 Server running on port 21. Waiting for clients...
+11/09/2016 01:32:24.519000 Client from 127.0.0.1 52673 accepted
+11/09/2016 01:32:24.519000 Sent to 127.0.0.1 52673: 220 Welcome message
+11/09/2016 01:32:27.721000 Received from 127.0.0.1 52673: USER admin
+11/09/2016 01:32:27.722000 Sent to 127.0.0.1 52673: 331 User name okay, need password.
+11/09/2016 01:32:27.722000 Received from 127.0.0.1 52673: PASS admin
+11/09/2016 01:32:27.723000 Sent to 127.0.0.1 52673: 230 User logged in, proceed.
+11/09/2016 01:32:29.324000 Received from 127.0.0.1 52673: 226 Closing data connection.
+11/09/2016 01:32:29.325000 Sent to 127.0.0.1 52673: 202 Not implemented
+11/09/2016 01:33:23.304000 socket.error: 10054
+11/09/2016 01:33:23.305000 Disconnected: 127.0.0.1 52673
+11/09/2016 01:33:26.376000 Stopping server...

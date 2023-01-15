@@ -1,0 +1,37 @@
+11/09/2016 01:33:52.848000 4 account records loaded.
+11/09/2016 01:33:52.849000 Starting server on port 21....
+11/09/2016 01:33:52.850000 Server start OK.
+11/09/2016 01:33:52.851000 Server running on port 21. Waiting for clients...
+11/09/2016 01:33:56.732000 Client from 127.0.0.1 52676 accepted
+11/09/2016 01:33:56.732000 Sent to 127.0.0.1 52676: 220 Welcome message
+11/09/2016 01:34:02.169000 Received from 127.0.0.1 52676: USER admin
+11/09/2016 01:34:02.169000 Sent to 127.0.0.1 52676: 331 User name okay, need password.
+11/09/2016 01:34:02.170000 Received from 127.0.0.1 52676: PASS admin
+11/09/2016 01:34:02.170000 Sent to 127.0.0.1 52676: 230 User logged in, proceed.
+11/09/2016 01:34:13.944000 Received from 127.0.0.1 52676: list
+11/09/2016 01:34:13.944000 Sent to 127.0.0.1 52676: 426 Data connection not specified.  A PORT/EPRT or PASV/EPSV command must be issued before executing this operation.
+11/09/2016 01:34:21.984000 Received from 127.0.0.1 52676: pasv
+11/09/2016 01:34:21.985000 Sent to 127.0.0.1 52676: 227 Entering Passive Mode 127,0,0,1,205,198
+11/09/2016 01:34:24.904000 Received from 127.0.0.1 52676: list
+11/09/2016 01:34:24.904000 Sent to 127.0.0.1 52676: 150 Opening ASCII mode data connection.
+11/09/2016 01:34:24.905000 For client 127.0.0.1 52676, accepted data connection 127.0.0.1 52679: 
+11/09/2016 01:34:24.905000 Sent via data connection to 127.0.0.1 52676:
+
+11/09/2016 01:34:24.905000 Sent to 127.0.0.1 52676: 226 Transfer complete.
+11/09/2016 01:34:43.824000 Received from 127.0.0.1 52676: list
+11/09/2016 01:34:43.824000 Sent to 127.0.0.1 52676: 426 Data connection not specified.  A PORT/EPRT or PASV/EPSV command must be issued before executing this operation.
+11/09/2016 01:34:46.536000 Received from 127.0.0.1 52676: pasv
+11/09/2016 01:34:46.536000 Sent to 127.0.0.1 52676: 227 Entering Passive Mode 127,0,0,1,205,200
+11/09/2016 01:34:47.792000 Received from 127.0.0.1 52676: list
+11/09/2016 01:34:47.792000 Sent to 127.0.0.1 52676: 150 Opening ASCII mode data connection.
+11/09/2016 01:34:47.792000 For client 127.0.0.1 52676, accepted data connection 127.0.0.1 52681: 
+11/09/2016 01:34:47.794000 Sent via data connection to 127.0.0.1 52676:
+-rw-rw-rw-   1 user       group          114465 Nov 04 2016 cs 472 hw4.pdf
+-rw-rw-rw-   1 user       group           15049 Nov 08 2016 Question.docx
+-rw-rw-rw-   1 user       group             500 Nov 04 2016 TZ.txt
+
+11/09/2016 01:34:47.794000 Sent to 127.0.0.1 52676: 226 Transfer complete.
+11/09/2016 01:35:02.191000 Received from 127.0.0.1 52676: quit
+11/09/2016 01:35:02.191000 Sent to 127.0.0.1 52676: 221 Goodbye, closing seesion.
+11/09/2016 01:35:02.192000 Disconnected: 127.0.0.1 52676
+11/09/2016 01:35:31.959000 Stopping server...

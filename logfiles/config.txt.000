@@ -1,0 +1,18 @@
+11/09/2016 00:56:36.930000 4 account records loaded.
+11/09/2016 00:56:36.931000 Starting server on port 21....
+11/09/2016 00:56:36.933000 Server start OK.
+11/09/2016 00:56:36.933000 Server running on port 21. Waiting for clients...
+11/09/2016 00:56:39.050000 Client from 127.0.0.1 50929 accepted
+11/09/2016 00:56:39.052000 Sent to 127.0.0.1 50929: 220 Welcome message
+11/09/2016 00:56:41.176000 Received from 127.0.0.1 50929: user admin
+11/09/2016 00:56:41.177000 Sent to 127.0.0.1 50929: 331 User name okay, need password.
+11/09/2016 00:56:42.824000 Received from 127.0.0.1 50929: pass admin
+11/09/2016 00:56:42.825000 Sent to 127.0.0.1 50929: 230 User logged in, proceed.
+11/09/2016 00:56:51.415000 Received from 127.0.0.1 50929: posrt
+11/09/2016 00:56:51.416000 Sent to 127.0.0.1 50929: 202 Not implemented
+11/09/2016 00:56:52.456000 Received from 127.0.0.1 50929: port
+11/09/2016 00:56:52.457000 Sent to 127.0.0.1 50929: 501 Syntax error in parameters or arguments.
+11/09/2016 00:56:59.768000 Received from 127.0.0.1 50929: PORT 192,1678,1,1
+11/09/2016 00:56:59.769000 Sent to 127.0.0.1 50929: 500 PORT/EPRT (Active Mode/Extended Active Mode) is not supported. Use PASV/EPSV instead of this
+11/09/2016 00:57:13.239000 Stopping server...
+11/09/2016 00:57:13.240000 Disconnected: 127.0.0.1 50929

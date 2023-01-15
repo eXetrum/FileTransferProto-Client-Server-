@@ -1,0 +1,24 @@
+11/09/2016 00:57:22.646000 4 account records loaded.
+11/09/2016 00:57:22.647000 Starting server on port 21....
+11/09/2016 00:57:22.648000 Server start OK.
+11/09/2016 00:57:22.649000 Server running on port 21. Waiting for clients...
+11/09/2016 00:57:24.402000 Client from 127.0.0.1 50948 accepted
+11/09/2016 00:57:24.404000 Sent to 127.0.0.1 50948: 220 Welcome message
+11/09/2016 00:57:27.224000 Received from 127.0.0.1 50948: user admin
+11/09/2016 00:57:27.225000 Sent to 127.0.0.1 50948: 331 User name okay, need password.
+11/09/2016 00:57:28.767000 Received from 127.0.0.1 50948: pass admin
+11/09/2016 00:57:28.768000 Sent to 127.0.0.1 50948: 230 User logged in, proceed.
+11/09/2016 00:57:32.279000 Received from 127.0.0.1 50948: port
+11/09/2016 00:57:32.280000 Sent to 127.0.0.1 50948: 501 Syntax error in parameters or arguments.
+11/09/2016 00:57:34.408000 Received from 127.0.0.1 50948: pasv
+11/09/2016 00:57:34.409000 Sent to 127.0.0.1 50948: 500 PASV/EPSV (Passive Mode/Extended Passive Mode) is not supported. Use PORT/EPRT instead of this
+11/09/2016 00:57:42.712000 Received from 127.0.0.1 50948: port 192.,168
+11/09/2016 00:57:42.713000 Sent to 127.0.0.1 50948: 501 Syntax error in parameters or arguments.
+11/09/2016 00:57:45.279000 Received from 127.0.0.1 50948: port
+11/09/2016 00:57:45.280000 Sent to 127.0.0.1 50948: 501 Syntax error in parameters or arguments.
+11/09/2016 00:57:49.767000 Received from 127.0.0.1 50948: qyu
+11/09/2016 00:57:49.768000 Sent to 127.0.0.1 50948: 202 Not implemented
+11/09/2016 00:57:50.640000 Received from 127.0.0.1 50948: quit
+11/09/2016 00:57:50.641000 Sent to 127.0.0.1 50948: 221 Goodbye, closing seesion.
+11/09/2016 00:57:50.642000 Disconnected: 127.0.0.1 50948
+11/09/2016 00:57:53.224000 Stopping server...

@@ -1,0 +1,32 @@
+11/09/2016 01:28:27.199000 4 account records loaded.
+11/09/2016 01:28:27.200000 Starting server on port 21....
+11/09/2016 01:28:27.201000 Server start OK.
+11/09/2016 01:28:27.202000 Server running on port 21. Waiting for clients...
+11/09/2016 01:28:42.457000 Client from 127.0.0.1 52622 accepted
+11/09/2016 01:28:42.458000 Sent to 127.0.0.1 52622: 220 Welcome message
+11/09/2016 01:28:50.515000 Received from 127.0.0.1 52622: USER admin
+11/09/2016 01:28:50.515000 Sent to 127.0.0.1 52622: 331 User name okay, need password.
+11/09/2016 01:28:50.516000 Received from 127.0.0.1 52622: PASS admin
+11/09/2016 01:28:50.517000 Sent to 127.0.0.1 52622: 230 User logged in, proceed.
+11/09/2016 01:28:52.986000 Received from 127.0.0.1 52622: list
+11/09/2016 01:28:52.987000 Sent to 127.0.0.1 52622: 426 Data connection not specified.  A PORT/EPRT or PASV/EPSV command must be issued before executing this operation.
+11/09/2016 01:28:55.848000 Received from 127.0.0.1 52622: 226 Closing data connection.
+11/09/2016 01:28:55.848000 Sent to 127.0.0.1 52622: 202 Not implemented
+11/09/2016 01:29:18.827000 Received from 127.0.0.1 52622: pasv
+11/09/2016 01:29:18.827000 Sent to 127.0.0.1 52622: 227 Entering Passive Mode 127,0,0,1,205,144
+11/09/2016 01:29:29.250000 socket.error: 10054
+11/09/2016 01:29:29.251000 Error while close active mode socket
+11/09/2016 01:29:29.251000 Disconnected: 127.0.0.1 52622
+11/09/2016 01:29:31.146000 Client from 127.0.0.1 52625 accepted
+11/09/2016 01:29:31.150000 Sent to 127.0.0.1 52625: 220 Welcome message
+11/09/2016 01:29:34.151000 Received from 127.0.0.1 52625: USER admin
+11/09/2016 01:29:34.151000 Sent to 127.0.0.1 52625: 331 User name okay, need password.
+11/09/2016 01:29:34.155000 Received from 127.0.0.1 52625: PASS admin
+11/09/2016 01:29:34.155000 Sent to 127.0.0.1 52625: 230 User logged in, proceed.
+11/09/2016 01:29:38.419000 Received from 127.0.0.1 52625: pasv
+11/09/2016 01:29:38.419000 Sent to 127.0.0.1 52625: 227 Entering Passive Mode 127,0,0,1,205,146
+11/09/2016 01:29:41.962000 Received from 127.0.0.1 52625: list
+11/09/2016 01:29:41.963000 Sent to 127.0.0.1 52625: 150 Opening ASCII mode data connection.
+11/09/2016 01:29:41.963000 For client 127.0.0.1 52625, accepted data connection 127.0.0.1 52627: 
+11/09/2016 01:30:03.065000 Stopping server...
+11/09/2016 01:30:03.066000 Disconnected: 127.0.0.1 52625

@@ -1,0 +1,24 @@
+11/09/2016 00:51:46.749000 4 account records loaded.
+11/09/2016 00:51:46.750000 Starting server on port 21....
+11/09/2016 00:51:46.751000 Server start OK.
+11/09/2016 00:51:46.751000 Server running on port 21. Waiting for clients...
+11/09/2016 00:51:50.924000 Client from 127.0.0.1 50476 accepted
+11/09/2016 00:51:50.924000 Sent to 127.0.0.1 50476: 220 Welcome message
+11/09/2016 00:51:53.097000 Received from 127.0.0.1 50476: user
+11/09/2016 00:51:53.097000 Sent to 127.0.0.1 50476: 530 Invalid user name.
+11/09/2016 00:51:54.346000 Received from 127.0.0.1 50476: admin
+11/09/2016 00:51:54.346000 Sent to 127.0.0.1 50476: 530 Authentification required.
+11/09/2016 00:51:56.689000 Received from 127.0.0.1 50476: user admin
+11/09/2016 00:51:56.690000 Sent to 127.0.0.1 50476: 331 User name okay, need password.
+11/09/2016 00:51:58.913000 Received from 127.0.0.1 50476: pass ad
+11/09/2016 00:51:58.913000 Sent to 127.0.0.1 50476: 530 Bad password.
+11/09/2016 00:52:01.250000 Received from 127.0.0.1 50476: user admin
+11/09/2016 00:52:01.252000 Sent to 127.0.0.1 50476: 331 User name okay, need password.
+11/09/2016 00:52:03.465000 Received from 127.0.0.1 50476: pass ad
+11/09/2016 00:52:03.465000 Sent to 127.0.0.1 50476: 530 Bad password.
+11/09/2016 00:52:06.394000 Received from 127.0.0.1 50476: user admin 
+11/09/2016 00:52:06.395000 Sent to 127.0.0.1 50476: 331 User name okay, need password.
+11/09/2016 00:52:07.762000 Received from 127.0.0.1 50476: [ass
+11/09/2016 00:52:07.762000 Sent to 127.0.0.1 50476: 530 Authentification required.
+11/09/2016 00:52:09.449000 Received from 127.0.0.1 50476: pass ad
+11/09/2016 00:52:09.450000 Sent to 127.0.0.1 50476: 421 Service not available, closing control connection. (Brute-force detection)

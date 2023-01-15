@@ -1,0 +1,103 @@
+11/08/2016 21:15:15.602000 Connecting to localhost (127.0.0.1:21)
+11/08/2016 21:15:15.606000 Received: 220 Welcome message
+11/08/2016 21:15:20.075000 Login: admin
+11/08/2016 21:15:20.075000 Password: admin
+11/08/2016 21:15:20.076000 Sent: USER admin
+11/08/2016 21:15:20.077000 Received: 331 User name okay, need password.
+11/08/2016 21:15:20.077000 Sent: PASS admin
+11/08/2016 21:15:20.079000 Received: 230 User logged in, proceed.
+11/08/2016 21:39:18.553000 Sent: z 
+11/08/2016 21:43:07.772000 Close control connection.
+11/08/2016 21:43:07.773000 Close log file.
+11/09/2016 00:47:36.889000 Connecting to localhost (127.0.0.1:21)
+11/09/2016 00:47:36.893000 Received: 220 Welcome message
+11/09/2016 00:47:46.652000 Close control connection.
+11/09/2016 00:47:46.652000 Close log file.
+11/09/2016 01:28:42.455000 Connecting to localhost (127.0.0.1:21)
+11/09/2016 01:28:42.458000 Received: 220 Welcome message
+11/09/2016 01:28:50.514000 Login: admin
+11/09/2016 01:28:50.514000 Password: admin
+11/09/2016 01:28:50.514000 Sent: USER admin
+11/09/2016 01:28:50.515000 Received: 331 User name okay, need password.
+11/09/2016 01:28:50.516000 Sent: PASS admin
+11/09/2016 01:28:50.517000 Received: 230 User logged in, proceed.
+11/09/2016 01:28:52.986000 Sent: list 
+11/09/2016 01:28:52.987000 Received: 426 Data connection not specified.  A PORT/EPRT or PASV/EPSV command must be issued before executing this operation.
+11/09/2016 01:28:55.845000 Sent: port 192,168,1,107,205,143
+11/09/2016 01:28:55.846000 Received: 500 PORT/EPRT (Active Mode/Extended Active Mode) is not supported. Use PASV/EPSV instead of this
+11/09/2016 01:28:55.847000 Sent: 226 Closing data connection.
+11/09/2016 01:29:18.826000 Sent: pasv 
+11/09/2016 01:29:18.827000 Received: 202 Not implemented
+11/09/2016 01:29:29.250000 Close control connection.
+11/09/2016 01:29:29.250000 Close log file.
+11/09/2016 01:29:31.141000 Connecting to localhost (127.0.0.1:21)
+11/09/2016 01:29:31.150000 Received: 220 Welcome message
+11/09/2016 01:29:34.145000 Login: admin
+11/09/2016 01:29:34.147000 Password: admin
+11/09/2016 01:29:34.150000 Sent: USER admin
+11/09/2016 01:29:34.152000 Received: 331 User name okay, need password.
+11/09/2016 01:29:34.152000 Sent: PASS admin
+11/09/2016 01:29:34.155000 Received: 230 User logged in, proceed.
+11/09/2016 01:29:38.418000 Sent: pasv 
+11/09/2016 01:29:38.419000 Received: 227 Entering Passive Mode 127,0,0,1,205,146
+11/09/2016 01:29:41.962000 Sent: list 
+11/09/2016 01:29:41.962000 Data connection to 127.0.0.1 52626 established succefuly.
+11/09/2016 01:29:41.963000 Received: 150 Opening ASCII mode data connection.
+11/09/2016 01:29:51.963000 ERROR: Unexpected error while read from socket
+11/09/2016 01:29:51.963000 Close control connection.
+11/09/2016 01:29:51.964000 Close listen socket.
+11/09/2016 01:29:51.965000 Close log file.
+11/09/2016 01:32:24.518000 Connecting to localhost (127.0.0.1:21)
+11/09/2016 01:32:24.520000 Received: 220 Welcome message
+11/09/2016 01:32:27.720000 Login: admin
+11/09/2016 01:32:27.720000 Password: admin
+11/09/2016 01:32:27.721000 Sent: USER admin
+11/09/2016 01:32:27.722000 Received: 331 User name okay, need password.
+11/09/2016 01:32:27.722000 Sent: PASS admin
+11/09/2016 01:32:27.723000 Received: 230 User logged in, proceed.
+11/09/2016 01:32:29.322000 Sent: port 192,168,1,107,205,194
+11/09/2016 01:32:29.323000 Received: 500 PORT/EPRT (Active Mode/Extended Active Mode) is not supported. Use PASV/EPSV instead of this
+11/09/2016 01:32:29.324000 Sent: 226 Closing data connection.
+11/09/2016 01:33:23.304000 Close control connection.
+11/09/2016 01:33:23.304000 Close log file.
+11/09/2016 01:33:56.731000 Connecting to localhost (127.0.0.1:21)
+11/09/2016 01:33:56.732000 Received: 220 Welcome message
+11/09/2016 01:34:02.168000 Login: admin
+11/09/2016 01:34:02.168000 Password: admin
+11/09/2016 01:34:02.168000 Sent: USER admin
+11/09/2016 01:34:02.169000 Received: 331 User name okay, need password.
+11/09/2016 01:34:02.169000 Sent: PASS admin
+11/09/2016 01:34:02.170000 Received: 230 User logged in, proceed.
+11/09/2016 01:34:04.850000 Sent: port 192,168,1,107,205,197
+11/09/2016 01:34:04.851000 Received: 500 PORT/EPRT (Active Mode/Extended Active Mode) is not supported. Use PASV/EPSV instead of this
+11/09/2016 01:34:13.943000 Sent: list 
+11/09/2016 01:34:13.944000 Received: 426 Data connection not specified.  A PORT/EPRT or PASV/EPSV command must be issued before executing this operation.
+11/09/2016 01:34:21.984000 Sent: pasv 
+11/09/2016 01:34:21.985000 Received: 227 Entering Passive Mode 127,0,0,1,205,198
+11/09/2016 01:34:24.903000 Sent: list 
+11/09/2016 01:34:24.904000 Data connection to 127.0.0.1 52678 established succefuly.
+11/09/2016 01:34:24.905000 Received: 150 Opening ASCII mode data connection.
+11/09/2016 01:34:24.905000 Received: 0 bytes 
+
+11/09/2016 01:34:24.906000 
+
+11/09/2016 01:34:24.906000 Received: 226 Transfer complete.
+11/09/2016 01:34:43.823000 Sent: list 
+11/09/2016 01:34:43.825000 Received: 426 Data connection not specified.  A PORT/EPRT or PASV/EPSV command must be issued before executing this operation.
+11/09/2016 01:34:46.535000 Sent: pasv 
+11/09/2016 01:34:46.536000 Received: 227 Entering Passive Mode 127,0,0,1,205,200
+11/09/2016 01:34:47.791000 Sent: list 
+11/09/2016 01:34:47.792000 Data connection to 127.0.0.1 52680 established succefuly.
+11/09/2016 01:34:47.793000 Received: 150 Opening ASCII mode data connection.
+11/09/2016 01:34:47.795000 Received: 216 bytes 
+
+11/09/2016 01:34:47.795000 
+-rw-rw-rw-   1 user       group          114465 Nov 04 2016 cs 472 hw4.pdf
+-rw-rw-rw-   1 user       group           15049 Nov 08 2016 Question.docx
+-rw-rw-rw-   1 user       group             500 Nov 04 2016 TZ.txt
+
+11/09/2016 01:34:47.796000 Received: 226 Transfer complete.
+11/09/2016 01:35:02.191000 Sent: quit 
+11/09/2016 01:35:02.192000 Received: 221 Goodbye, closing seesion.
+11/09/2016 01:35:02.192000 Close control connection.
+11/09/2016 01:35:02.192000 Close log file.

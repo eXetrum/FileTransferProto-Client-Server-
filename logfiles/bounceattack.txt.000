@@ -1,0 +1,15 @@
+11/09/2016 00:58:10.545000 4 account records loaded.
+11/09/2016 00:58:10.545000 Starting server on port 21....
+11/09/2016 00:58:10.547000 Server start OK.
+11/09/2016 00:58:10.547000 Server running on port 21. Waiting for clients...
+11/09/2016 00:58:13.890000 Client from 127.0.0.1 50950 accepted
+11/09/2016 00:58:13.891000 Sent to 127.0.0.1 50950: 220 Welcome message
+11/09/2016 00:58:16.567000 Received from 127.0.0.1 50950: user admin
+11/09/2016 00:58:16.568000 Sent to 127.0.0.1 50950: 331 User name okay, need password.
+11/09/2016 00:58:18.239000 Received from 127.0.0.1 50950: pass admin
+11/09/2016 00:58:18.240000 Sent to 127.0.0.1 50950: 230 User logged in, proceed.
+11/09/2016 00:58:45.055000 Received from 127.0.0.1 50950: port 192,168,1,1,0,80
+11/09/2016 00:58:45.056000 Sent to 127.0.0.1 50950: 504 Command not implemented for that parameter
+11/09/2016 00:58:45.058000 Bounce-attack detected: 127.0.0.1 50950
+11/09/2016 00:58:45.059000 Disconnected: 127.0.0.1 50950
+11/09/2016 00:58:56.342000 Stopping server...

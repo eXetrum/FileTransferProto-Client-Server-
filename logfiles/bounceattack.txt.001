@@ -1,0 +1,28 @@
+11/09/2016 00:58:58.483000 4 account records loaded.
+11/09/2016 00:58:58.485000 Starting server on port 21....
+11/09/2016 00:58:58.486000 Server start OK.
+11/09/2016 00:58:58.486000 Server running on port 21. Waiting for clients...
+11/09/2016 00:59:01.002000 Client from 127.0.0.1 50954 accepted
+11/09/2016 00:59:01.004000 Sent to 127.0.0.1 50954: 220 Welcome message
+11/09/2016 00:59:03.007000 Received from 127.0.0.1 50954: user admin
+11/09/2016 00:59:03.008000 Sent to 127.0.0.1 50954: 331 User name okay, need password.
+11/09/2016 00:59:05.207000 Received from 127.0.0.1 50954: pass admin
+11/09/2016 00:59:05.207000 Sent to 127.0.0.1 50954: 230 User logged in, proceed.
+11/09/2016 00:59:17.782000 Received from 127.0.0.1 50954: port 192,168,1,1,0,80\r\n
+11/09/2016 00:59:17.784000 Sent to 127.0.0.1 50954: 501 Syntax error in parameters or arguments.
+11/09/2016 01:00:16.854000 Disconnected: 127.0.0.1 50954
+11/09/2016 01:00:19.360000 Client from 127.0.0.1 50980 accepted
+11/09/2016 01:00:19.362000 Sent to 127.0.0.1 50980: 220 Welcome message
+11/09/2016 01:00:23.165000 Received from 127.0.0.1 50980: user admin
+11/09/2016 01:00:23.165000 Sent to 127.0.0.1 50980: 331 User name okay, need password.
+11/09/2016 01:00:25.974000 Received from 127.0.0.1 50980: pass admin
+11/09/2016 01:00:25.975000 Sent to 127.0.0.1 50980: 230 User logged in, proceed.
+11/09/2016 01:00:35.686000 Received from 127.0.0.1 50980: port 192.168.1.1.1.111
+11/09/2016 01:00:35.688000 Sent to 127.0.0.1 50980: 501 Syntax error in parameters or arguments.
+11/09/2016 01:00:53.006000 Received from 127.0.0.1 50980: [Aport 192,168,1,1,4,4
+11/09/2016 01:00:53.008000 Sent to 127.0.0.1 50980: 202 Not implemented
+11/09/2016 01:01:05.942000 Received from 127.0.0.1 50980: port 192,168,1,1,4,4
+11/09/2016 01:01:05.944000 Sent to 127.0.0.1 50980: 504 Command not implemented for that parameter
+11/09/2016 01:01:05.945000 Bounce-attack detected: 127.0.0.1 50980
+11/09/2016 01:02:11.469000 Stopping server...
+11/09/2016 01:02:11.469000 Disconnected: 127.0.0.1 50980

@@ -1,0 +1,23 @@
+11/09/2016 00:53:56.712000 4 account records loaded.
+11/09/2016 00:53:56.712000 Starting server on port 21....
+11/09/2016 00:53:56.714000 Server start OK.
+11/09/2016 00:53:56.714000 Server running on port 21. Waiting for clients...
+11/09/2016 00:54:01.193000 Client from 127.0.0.1 50693 accepted
+11/09/2016 00:54:01.194000 Sent to 127.0.0.1 50693: 220 Welcome message
+11/09/2016 00:54:15.425000 Received from 127.0.0.1 50693: adpassuser admin
+11/09/2016 00:54:15.426000 Sent to 127.0.0.1 50693: 530 Authentification required.
+11/09/2016 00:54:18.321000 Received from 127.0.0.1 50693: user admin
+11/09/2016 00:54:18.321000 Sent to 127.0.0.1 50693: 331 User name okay, need password.
+11/09/2016 00:54:22.001000 Received from 127.0.0.1 50693: pass q
+11/09/2016 00:54:22.002000 Sent to 127.0.0.1 50693: 530 Bad password.
+11/09/2016 00:54:25.128000 Received from 127.0.0.1 50693: user admin
+11/09/2016 00:54:25.128000 Sent to 127.0.0.1 50693: 331 User name okay, need password.
+11/09/2016 00:54:28.033000 Received from 127.0.0.1 50693: pass w
+11/09/2016 00:54:28.034000 Sent to 127.0.0.1 50693: 530 Bad password.
+11/09/2016 00:54:30.857000 Received from 127.0.0.1 50693: user admin
+11/09/2016 00:54:30.858000 Sent to 127.0.0.1 50693: 331 User name okay, need password.
+11/09/2016 00:54:33.417000 Received from 127.0.0.1 50693: pass e
+11/09/2016 00:54:33.418000 Sent to 127.0.0.1 50693: 421 Service not available, closing control connection. (Brute-force detection)
+11/09/2016 00:54:33.420000 Brute-force detected: 127.0.0.1 50693
+11/09/2016 00:54:33.421000 Disconnected: 127.0.0.1 50693
+11/09/2016 00:54:50.377000 Stopping server...

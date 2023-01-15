@@ -1,0 +1,22 @@
+11/08/2016 22:24:03.462000 4 account records loaded.
+11/08/2016 22:24:03.463000 Starting server on port 21....
+11/08/2016 22:24:03.464000 Server start OK.
+11/08/2016 22:24:03.464000 Server running on port 21. Waiting for clients...
+11/08/2016 22:24:14.910000 Client from 127.0.0.1 56986 accepted
+11/08/2016 22:24:14.911000 Sent to 127.0.0.1 56986: 220 Welcome message
+11/08/2016 22:24:14.911000 socket.error: 10054
+11/08/2016 22:24:14.911000 Disconnected: 127.0.0.1 56986
+11/08/2016 22:24:20.912000 Client from 127.0.0.1 56990 accepted
+11/08/2016 22:24:20.913000 Sent to 127.0.0.1 56990: 220 Welcome message
+11/08/2016 22:24:20.913000 socket.error: 10054
+11/08/2016 22:24:20.914000 Disconnected: 127.0.0.1 56990
+11/08/2016 22:25:55.791000 Stopping server...
+11/08/2016 22:26:22.355000 4 account records loaded.
+11/08/2016 22:26:22.356000 Starting server on port 21....
+11/08/2016 22:26:22.357000 Server start OK.
+11/08/2016 22:26:22.357000 Server running on port 21. Waiting for clients...
+11/08/2016 22:26:33.937000 Client from 127.0.0.1 57055 accepted
+11/08/2016 22:26:33.938000 Sent to 127.0.0.1 57055: 220 Welcome message
+11/08/2016 22:26:33.939000 socket.error: 10054
+11/08/2016 22:26:33.941000 Disconnected: 127.0.0.1 57055
+11/08/2016 22:27:21.486000 Stopping server...
